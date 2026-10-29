@@ -1,4 +1,4 @@
-# 📦 DemandIQ — AI-Powered Demand Forecasting & Inventory Optimization
+# 📦 DemandIQ — AI-Powered Demand Forecasting & Inventory Optimization 
 
 **Predict demand. Optimize inventory. Make smarter decisions.**
 
